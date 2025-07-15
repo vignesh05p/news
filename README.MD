@@ -13,7 +13,6 @@ A modern, minimalistic web app that delivers the latest technology news with a s
 - **Background Task Optimization**: Non-urgent tasks run with `requestIdleCallback`.
 - **Skeleton Loaders**: Smooth loading experience with animated placeholders.
 - **Article Detail View**: Deep linking for individual articles.
-- **Native Share Support**: Progressive enhancement for sharing articles.
 - **User Feedback Form**: Collects user feedback for continuous improvement.
 
 ---
